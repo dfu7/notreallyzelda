@@ -3,7 +3,7 @@
 Was having fun with maths!!!!!
 Unreal Engine 5
 
-This is from a project I started recently where the goal was to work with line traces and some 3d math to create something that felt fun to mess around with in-game!
+This is a recently-started project in which I had the goal in mind to work with line traces and some 3d math to create something that felt fun to mess around with in-game!
 
 The provided Character.cpp file contains six functions written in unreal engine's character.cpp template (with the base unreal code ommitted).
 
